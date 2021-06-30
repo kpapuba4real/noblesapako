@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @noblesapako
-- 👀 I’m interested in ...web development, app development data analysis and ethical hacking
-- 🌱 I’m currently learning ...web development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @kpapuba4real
+- 👀 I’m interested in ...web development, app development,data analysis,ethical hacking....well anything I.T
+- 🌱 I’m currently learning ...web development,fdatabase and app development
+- 💞️ I’m looking to collaborate on ...anything interesting
 - 📫 How to reach me ...mykpapyy@gmail.com
 
 <!---
